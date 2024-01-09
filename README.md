@@ -1,2 +1,1 @@
-# Optics
-Optics course papers
+# Optics course papers
